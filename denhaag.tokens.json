@@ -51,22 +51,30 @@
           }
         },
         "font-weight": {
-          "normal": {
-            "value": "Regular",
-            "type": "fontWeights"
+          "body": {
+            "normal": {
+              "value": "Regular",
+              "type": "fontWeights"
+            },
+            "bold": {
+              "value": "Bold",
+              "type": "fontWeights"
+            }
           },
-          "bold": {
-            "value": "Bold",
-            "type": "fontWeights"
+          "heading": {
+            "bold": {
+              "value": "W7 Bold",
+              "type": "fontWeights"
+            }
           }
         },
         "font-family": {
           "primary": {
-            "value": "Source Serif Pro, Tahoma, Verdana, sans-serif",
+            "value": "TheMixB, Tahoma, Verdana, sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "Fira Sans, Tahoma, Verdana, sans-serif",
+            "value": "TheSans C4s, Tahoma, Verdana, sans-serif",
             "type": "fontFamilies"
           }
         }
@@ -951,12 +959,12 @@
           "type": "fontSizes"
         },
         "font-weight": {
-          "value": "{voorbeeld.typography.font-weight.normal}",
+          "value": "{voorbeeld.typography.font-weight.body.normal}",
           "type": "fontWeights"
         },
         "strong": {
           "font-weight": {
-            "value": "{voorbeeld.typography.font-weight.bold}",
+            "value": "{voorbeeld.typography.font-weight.body.bold}",
             "type": "fontWeights"
           }
         },
@@ -975,7 +983,7 @@
           "type": "fontFamilies"
         },
         "font-weight": {
-          "value": "{voorbeeld.typography.font-weight.bold}",
+          "value": "{voorbeeld.typography.font-weight.heading.bold}",
           "type": "fontWeights"
         }
       },
@@ -1001,7 +1009,7 @@
       },
       "interaction": {
         "color": {
-          "value": "{voorbeeld.color.violet.700}",
+          "value": "{voorbeeld.color.red.700}",
           "type": "color"
         },
         "active": {
@@ -1859,7 +1867,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{voorbeeld.color.yellow.500}"
           },
           "border-color": {
             "value": "transparent",
