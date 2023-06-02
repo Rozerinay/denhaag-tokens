@@ -70,7 +70,7 @@
         },
         "font-family": {
           "primary": {
-            "value": "TheMixB, Tahoma, Verdana, sans-serif",
+            "value": "TheMixB, Georgia, serif",
             "type": "fontFamilies"
           },
           "secondary": {
@@ -135,6 +135,26 @@
           }
         },
         "gray": {
+          "1": {
+            "value": "#F1F1F1",
+            "type": "color"
+          },
+          "2": {
+            "value": "#D2D2D2",
+            "type": "color"
+          },
+          "3": {
+            "value": "#7A7A7A",
+            "type": "color"
+          },
+          "4": {
+            "value": "#4B4B4B",
+            "type": "color"
+          },
+          "5": {
+            "value": "#262626",
+            "type": "color"
+          },
           "50": {
             "value": "#f5f6f8",
             "type": "color"
@@ -227,6 +247,26 @@
           }
         },
         "red": {
+          "1": {
+            "value": "#FFD7D4",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ED8980",
+            "type": "color"
+          },
+          "3": {
+            "value": "#CF1C08",
+            "type": "color"
+          },
+          "4": {
+            "value": "#A30500",
+            "type": "color"
+          },
+          "5": {
+            "value": "#540200",
+            "type": "color"
+          },
           "50": {
             "value": "#fff4f4",
             "type": "color"
@@ -273,6 +313,26 @@
           }
         },
         "orange": {
+          "1": {
+            "value": "#FFDBAD",
+            "type": "color"
+          },
+          "2": {
+            "value": "#FFB85E",
+            "type": "color"
+          },
+          "3": {
+            "value": "#F18700",
+            "type": "color"
+          },
+          "4": {
+            "value": "#E15601",
+            "type": "color"
+          },
+          "5": {
+            "value": "#8C3600",
+            "type": "color"
+          },
           "50": {
             "value": "#fff5ed",
             "type": "color"
@@ -369,6 +429,22 @@
             "value": "#D5E7D4",
             "type": "color"
           },
+          "2": {
+            "value": "#7EB57C",
+            "type": "color"
+          },
+          "3": {
+            "value": "#248641",
+            "type": "color"
+          },
+          "4": {
+            "value": "#1D6B34",
+            "type": "color"
+          },
+          "5": {
+            "value": "#00300F",
+            "type": "color"
+          },
           "50": {
             "value": "#ebfaef",
             "type": "color"
@@ -461,6 +537,26 @@
           }
         },
         "blue": {
+          "1": {
+            "value": "#DAEBFA",
+            "type": "color"
+          },
+          "2": {
+            "value": "#ADCDED",
+            "type": "color"
+          },
+          "3": {
+            "value": "#1261A3",
+            "type": "color"
+          },
+          "4": {
+            "value": "#094B81",
+            "type": "color"
+          },
+          "5": {
+            "value": "#032C4E",
+            "type": "color"
+          },
           "50": {
             "value": "#eef8fe",
             "type": "color"
@@ -529,6 +625,32 @@
               "type": "color"
             }
           }
+        },
+        "ocher": {
+          "1": {
+            "value": "#FFF7D1",
+            "type": "color"
+          },
+          "2": {
+            "value": "#FFEB85",
+            "type": "color"
+          },
+          "3": {
+            "value": "#F8D62D",
+            "type": "color"
+          },
+          "4": {
+            "value": "#CCA000",
+            "type": "color"
+          },
+          "5": {
+            "value": "#7D6200",
+            "type": "color"
+          }
+        },
+        "warm-gray": {
+          "value": "#F8F7F5",
+          "type": "color"
         }
       },
       "space": {
