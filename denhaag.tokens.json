@@ -365,6 +365,10 @@
           }
         },
         "green": {
+          "1": {
+            "value": "#D5E7D4",
+            "type": "color"
+          },
           "50": {
             "value": "#ebfaef",
             "type": "color"
