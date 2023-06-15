@@ -1061,7 +1061,7 @@
           "type": "color"
         },
         "color": {
-          "value": "{denhaag.color.gray.900}",
+          "value": "{denhaag.color.gray.4}",
           "type": "color"
         },
         "inverse": {
