@@ -659,261 +659,233 @@
       },
       "space": {
         "inline": {
-          "flea": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "ant": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "beetle": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "snail": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "mouse": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rat": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "rabbit": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "cat": {
+          "2xl": {
+            "value": "28px",
+            "type": "spacing"
+          },
+          "3xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "dog": {
-            "value": "40px",
-            "type": "spacing"
-          },
-          "pig": {
+          "4xl": {
             "value": "48px",
-            "type": "spacing"
-          },
-          "tiger": {
-            "value": "56px",
             "type": "spacing"
           }
         },
         "block": {
-          "flea": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "ant": {
+          "2xp": {
             "value": "4px",
             "type": "spacing"
           },
-          "beetle": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "snail": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "mouse": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rat": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "rabbit": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "cat": {
+          "2xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "dog": {
-            "value": "40px",
-            "type": "spacing"
-          },
-          "pig": {
+          "3xl": {
             "value": "48px",
             "type": "spacing"
           },
-          "tiger": {
-            "value": "56px",
-            "type": "spacing"
-          },
-          "horse": {
+          "4xl": {
             "value": "64px",
             "type": "spacing"
           }
         },
         "text": {
-          "flea": {
+          "3xs": {
             "value": "1px",
             "type": "spacing",
             "description": "0.125ch"
           },
-          "ant": {
+          "2xs": {
             "value": "2px",
             "type": "spacing",
             "description": "0.25ch"
           },
-          "beetle": {
+          "xs": {
             "value": "4px",
             "type": "spacing",
             "description": "0.5ch"
           },
-          "snail": {
+          "sm": {
             "value": "6px",
             "type": "spacing",
             "description": "0.75ch"
           },
-          "mouse": {
+          "md": {
             "value": "8px",
             "type": "spacing",
             "description": "1ch"
           },
-          "rat": {
+          "lg": {
             "value": "12px",
             "type": "spacing",
             "description": "1.5ch"
           },
-          "rabbit": {
+          "xl": {
             "value": "14px",
             "type": "spacing",
             "description": "1.75ch"
           },
-          "cat": {
+          "2xl": {
             "value": "16px",
             "type": "spacing",
             "description": "2ch"
           },
-          "dog": {
+          "3xl": {
             "value": "24px",
             "type": "spacing",
             "description": "3ch"
           }
         },
         "column": {
-          "flea": {
+          "4xs": {
             "value": "1px",
             "type": "spacing"
           },
-          "ant": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "beetle": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "snail": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "mouse": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "rat": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rabbit": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "cat": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "dog": {
+          "2xl": {
             "value": "28px",
             "type": "spacing"
           },
-          "pig": {
+          "3xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "tiger": {
+          "4xl": {
             "value": "48px",
             "type": "spacing"
           },
-          "horse": {
+          "5xl": {
             "value": "64px",
-            "type": "spacing"
-          },
-          "elephant": {
-            "value": "96px",
-            "type": "spacing"
-          },
-          "giraffe": {
-            "value": "160px",
             "type": "spacing"
           }
         },
         "row": {
-          "flea": {
+          "4xs": {
             "value": "1px",
             "type": "spacing"
           },
-          "ant": {
+          "3xs": {
             "value": "2px",
             "type": "spacing"
           },
-          "beetle": {
+          "2xs": {
             "value": "4px",
             "type": "spacing"
           },
-          "snail": {
+          "xs": {
             "value": "8px",
             "type": "spacing"
           },
-          "mouse": {
+          "sm": {
             "value": "12px",
             "type": "spacing"
           },
-          "rat": {
+          "md": {
             "value": "16px",
             "type": "spacing"
           },
-          "rabbit": {
+          "lg": {
             "value": "20px",
             "type": "spacing"
           },
-          "cat": {
+          "xl": {
             "value": "24px",
             "type": "spacing"
           },
-          "dog": {
+          "2xl": {
             "value": "28px",
             "type": "spacing"
           },
-          "pig": {
+          "3xl": {
             "value": "32px",
             "type": "spacing"
           },
-          "tiger": {
+          "4xl": {
             "value": "48px",
             "type": "spacing"
           },
-          "horse": {
+          "5xl": {
             "value": "64px",
-            "type": "spacing"
-          },
-          "elephant": {
-            "value": "96px",
-            "type": "spacing"
-          },
-          "giraffe": {
-            "value": "160px",
             "type": "spacing"
           }
         }
@@ -1524,19 +1496,19 @@
             "value": "{denhaag.border-width.sm}"
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.rabbit}",
+            "value": "{denhaag.space.block.xl}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.rabbit}",
+            "value": "{denhaag.space.block.xl}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.mouse}",
+            "value": "{denhaag.space.inline.md}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.mouse}",
+            "value": "{denhaag.space.inline.md}",
             "type": "spacing"
           }
         },
@@ -1551,7 +1523,7 @@
           },
           "icon": {
             "margin-inline": {
-              "value": "{denhaag.space.inline.beetle}",
+              "value": "{denhaag.space.inline.xs}",
               "type": "spacing"
             },
             "size": {
@@ -1560,19 +1532,19 @@
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.mouse}",
+            "value": "{denhaag.space.inline.md}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.mouse}",
+            "value": "{denhaag.space.inline.md}",
             "type": "spacing"
           },
           "hover": {
@@ -1677,7 +1649,7 @@
           }
         },
         "column-gap": {
-          "value": "{denhaag.space.column.snail}",
+          "value": "{denhaag.space.column.xs}",
           "type": "spacing"
         },
         "border-width": {
@@ -1685,19 +1657,19 @@
           "type": "borderWidth"
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "informative": {
@@ -1722,11 +1694,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1734,7 +1706,7 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.ant}",
+            "value": "{denhaag.space.inline.2xs}",
             "type": "spacing"
           },
           "positive": {
@@ -1804,15 +1776,15 @@
         },
         "message": {
           "row-gap": {
-            "value": "{denhaag.space.column.snail}",
+            "value": "{denhaag.space.column.xs}",
             "type": "spacing"
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.beetle}",
+            "value": "{denhaag.space.block.xs}",
             "type": "spacing"
           }
         }
@@ -1836,7 +1808,7 @@
             "type": "fontWeights"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "color": {
@@ -1867,11 +1839,11 @@
           }
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
@@ -1903,16 +1875,16 @@
               "value": "{utrecht.icon.functional.size}"
             },
             "margin-inline": {
-              "value": "{denhaag.space.inline.beetle}",
+              "value": "{denhaag.space.inline.xs}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -1983,7 +1955,7 @@
           }
         },
         "margin-inline": {
-          "value": "{denhaag.space.inline.beetle}",
+          "value": "{denhaag.space.inline.xs}",
           "type": "spacing"
         },
         "font-family": {
@@ -2170,7 +2142,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{denhaag.space.inline.beetle}",
+            "value": "{denhaag.space.inline.xs}",
             "type": "spacing"
           }
         },
@@ -2265,19 +2237,19 @@
           "type": "lineHeights"
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.mouse}",
+          "value": "{denhaag.space.inline.md}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.mouse}",
+          "value": "{denhaag.space.inline.md}",
           "type": "spacing"
         },
         "disabled": {
@@ -2613,15 +2585,15 @@
       },
       "checkbox-group": {
         "padding-block-end": {
-          "value": "{denhaag.space.block.beetle}",
+          "value": "{denhaag.space.block.xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.beetle}",
+          "value": "{denhaag.space.block.xs}",
           "type": "spacing"
         },
         "row-gap": {
-          "value": "{denhaag.space.row.rat}",
+          "value": "{denhaag.space.row.md}",
           "type": "spacing"
         }
       },
@@ -2671,11 +2643,11 @@
           "value": "{utrecht.document.color}"
         },
         "padding-inline": {
-          "value": "{denhaag.space.inline.ant}",
+          "value": "{denhaag.space.inline.2xs}",
           "type": "spacing"
         },
         "padding-block": {
-          "value": "{denhaag.space.block.ant}",
+          "value": "{denhaag.space.block.2xp}",
           "type": "spacing"
         }
       },
@@ -2691,36 +2663,36 @@
           },
           "row": {
             "padding-block-end": {
-              "value": "{denhaag.space.block.snail}",
+              "value": "{denhaag.space.block.sm}",
               "type": "spacing"
             },
             "padding-block-start": {
-              "value": "{denhaag.space.block.snail}",
+              "value": "{denhaag.space.block.sm}",
               "type": "spacing"
             },
             "padding-inline-end": {
-              "value": "{denhaag.space.inline.snail}",
+              "value": "{denhaag.space.inline.sm}",
               "type": "spacing"
             },
             "padding-inline-start": {
-              "value": "{denhaag.space.inline.snail}",
+              "value": "{denhaag.space.inline.sm}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.ant}",
+            "value": "{denhaag.space.block.2xp}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -2731,36 +2703,36 @@
           },
           "row": {
             "padding-block-end": {
-              "value": "{denhaag.space.block.snail}",
+              "value": "{denhaag.space.block.sm}",
               "type": "spacing"
             },
             "padding-block-start": {
-              "value": "{denhaag.space.block.snail}",
+              "value": "{denhaag.space.block.sm}",
               "type": "spacing"
             },
             "padding-inline-end": {
-              "value": "{denhaag.space.inline.snail}",
+              "value": "{denhaag.space.inline.sm}",
               "type": "spacing"
             },
             "padding-inline-start": {
-              "value": "{denhaag.space.inline.snail}",
+              "value": "{denhaag.space.inline.sm}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.ant}",
+            "value": "{denhaag.space.block.2xp}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -2789,36 +2761,36 @@
         "item-action": {
           "row": {
             "padding-block-end": {
-              "value": "{denhaag.space.block.snail}",
+              "value": "{denhaag.space.block.sm}",
               "type": "spacing"
             },
             "padding-block-start": {
-              "value": "{denhaag.space.block.snail}",
+              "value": "{denhaag.space.block.sm}",
               "type": "spacing"
             },
             "padding-inline-end": {
-              "value": "{denhaag.space.inline.snail}",
+              "value": "{denhaag.space.inline.sm}",
               "type": "spacing"
             },
             "padding-inline-start": {
-              "value": "{denhaag.space.inline.snail}",
+              "value": "{denhaag.space.inline.sm}",
               "type": "spacing"
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           }
         }
@@ -2834,7 +2806,7 @@
             "type": "borderWidth"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.mouse}",
+            "value": "{denhaag.space.inline.md}",
             "type": "spacing"
           }
         }
@@ -2863,7 +2835,7 @@
       },
       "form-field-checkbox-option": {
         "column-gap": {
-          "value": "{denhaag.space.column.snail}",
+          "value": "{denhaag.space.column.xs}",
           "type": "spacing"
         }
       },
@@ -2874,7 +2846,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline-end": {
-            "value": "{denhaag.space.inline.beetle}",
+            "value": "{denhaag.space.inline.xs}",
             "type": "spacing"
           }
         },
@@ -2951,7 +2923,7 @@
       },
       "form-field-radio-option": {
         "column-gap": {
-          "value": "{denhaag.space.column.snail}",
+          "value": "{denhaag.space.column.xs}",
           "type": "spacing"
         }
       },
@@ -3158,7 +3130,7 @@
             "value": "{utrecht.icon.functional.size}"
           },
           "margin-inline": {
-            "value": "{denhaag.space.inline.ant}",
+            "value": "{denhaag.space.inline.2xs}",
             "type": "spacing"
           }
         },
@@ -3185,7 +3157,7 @@
       },
       "ordered-list": {
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.rabbit}",
+          "value": "{denhaag.space.inline.xl}",
           "type": "spacing"
         },
         "color": {
@@ -3210,11 +3182,11 @@
         },
         "item": {
           "margin-block-end": {
-            "value": "{denhaag.space.block.ant}",
+            "value": "{denhaag.space.block.2xp}",
             "type": "spacing"
           },
           "margin-block-start": {
-            "value": "{denhaag.space.block.ant}",
+            "value": "{denhaag.space.block.2xp}",
             "type": "spacing"
           }
         }
@@ -3227,7 +3199,7 @@
           },
           "icon": {
             "margin-inline": {
-              "value": "{denhaag.space.inline.ant}",
+              "value": "{denhaag.space.inline.2xs}",
               "type": "spacing"
             },
             "size": {
@@ -3236,11 +3208,11 @@
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -3335,13 +3307,13 @@
           },
           "previous": {
             "padding-inline-end": {
-              "value": "{denhaag.space.inline.ant}",
+              "value": "{denhaag.space.inline.2xs}",
               "type": "spacing"
             }
           },
           "next": {
             "padding-inline-start": {
-              "value": "{denhaag.space.inline.ant}",
+              "value": "{denhaag.space.inline.2xs}",
               "type": "spacing"
             }
           }
@@ -3382,19 +3354,19 @@
             "type": "borderRadius"
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "focus": {
@@ -3473,7 +3445,7 @@
           }
         },
         "gap": {
-          "value": "{denhaag.space.inline.ant}",
+          "value": "{denhaag.space.inline.2xs}",
           "type": "spacing"
         },
         "font-family": {
@@ -3490,11 +3462,11 @@
         },
         "ellipses": {
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -3763,15 +3735,15 @@
       },
       "radio-group": {
         "padding-block-end": {
-          "value": "{denhaag.space.block.beetle}",
+          "value": "{denhaag.space.block.xs}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.beetle}",
+          "value": "{denhaag.space.block.xs}",
           "type": "spacing"
         },
         "row-gap": {
-          "value": "{denhaag.space.row.rat}",
+          "value": "{denhaag.space.row.md}",
           "type": "spacing"
         }
       },
@@ -3863,19 +3835,19 @@
           }
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "border-radius": {
@@ -3921,11 +3893,11 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         }
       },
@@ -3955,19 +3927,19 @@
           "value": "{utrecht.pointer-target.min-size}"
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.mouse}",
+          "value": "{denhaag.space.inline.md}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.mouse}",
+          "value": "{denhaag.space.inline.md}",
           "type": "spacing"
         },
         "focus": {
@@ -4039,11 +4011,11 @@
           "value": "{denhaag.border-radius.sm}"
         },
         "padding-inline": {
-          "value": "{denhaag.space.inline.ant}",
+          "value": "{denhaag.space.inline.2xs}",
           "type": "spacing"
         },
         "padding-block": {
-          "value": "{denhaag.space.block.flea}",
+          "value": "{denhaag.space.block.3xs}",
           "type": "spacing"
         },
         "informative": {
@@ -4144,7 +4116,7 @@
             "type": "lineHeights"
           },
           "margin-block-end": {
-            "value": "{denhaag.space.block.rabbit}",
+            "value": "{denhaag.space.block.xl}",
             "type": "spacing"
           },
           "color": {
@@ -4166,19 +4138,19 @@
         },
         "cell": {
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.snail}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           }
         },
@@ -4285,19 +4257,19 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "background-color": {
@@ -4455,19 +4427,19 @@
           "type": "sizing"
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "background-color": {
@@ -4611,35 +4583,35 @@
           "type": "lineHeights"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.rabbit}",
+          "value": "{denhaag.space.inline.xl}",
           "type": "spacing"
         },
         "item": {
           "margin-block-end": {
-            "value": "{denhaag.space.block.ant}",
+            "value": "{denhaag.space.block.2xp}",
             "type": "spacing"
           },
           "margin-block-start": {
-            "value": "{denhaag.space.block.ant}",
+            "value": "{denhaag.space.block.2xp}",
             "type": "spacing"
           }
         }
       },
       "icon-only-button": {
         "padding-block-end": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.snail}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.snail}",
+          "value": "{denhaag.space.inline.sm}",
           "type": "spacing"
         }
       }
@@ -4657,7 +4629,7 @@
               "value": "{utrecht.icon.functional.size}"
             },
             "margin-inline": {
-              "value": "{denhaag.space.inline.beetle}",
+              "value": "{denhaag.space.inline.xs}",
               "type": "spacing"
             }
           },
@@ -4722,11 +4694,11 @@
             }
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.snail}",
+            "value": "{denhaag.space.block.sm}",
             "type": "spacing"
           },
           "text-decoration": {
