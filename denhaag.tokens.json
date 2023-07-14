@@ -919,8 +919,12 @@
         }
       },
       "border-radius": {
+        "xs": {
+          "value": "3px",
+          "type": "borderRadius"
+        },
         "sm": {
-          "value": "4px",
+          "value": "5px",
           "type": "borderRadius"
         },
         "md": {
@@ -928,7 +932,7 @@
           "type": "borderRadius"
         },
         "lg": {
-          "value": "16px",
+          "value": "12px",
           "type": "borderRadius"
         },
         "round": {
