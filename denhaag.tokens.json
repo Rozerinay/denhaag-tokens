@@ -1184,11 +1184,11 @@
           }
         },
         "outline-offset": {
-          "value": "0",
+          "value": "5",
           "type": "other"
         },
         "outline-style": {
-          "value": "dotted",
+          "value": "dashed",
           "type": "other"
         },
         "outline-width": {
@@ -1289,7 +1289,7 @@
             "type": "color"
           },
           "border-width": {
-            "value": "{denhaag.border-width.md}",
+            "value": "{denhaag.border-width.sm}",
             "type": "borderWidth"
           },
           "color": {
