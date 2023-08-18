@@ -66,6 +66,10 @@
             }
           },
           "heading": {
+            "normal": {
+              "value": "W5 Plain",
+              "type": "fontWeights"
+            },
             "bold": {
               "value": "W7 Bold",
               "type": "fontWeights"
@@ -1277,7 +1281,7 @@
             "type": "color"
           },
           "background-color": {
-            "value": "{denhaag.color.white}",
+            "value": "{denhaag.color.gray.1}",
             "type": "color"
           },
           "border-color": {
@@ -1285,7 +1289,7 @@
             "type": "color"
           },
           "border-width": {
-            "value": "{denhaag.border-width.sm}",
+            "value": "{denhaag.border-width.md}",
             "type": "borderWidth"
           },
           "color": {
@@ -1307,7 +1311,7 @@
             "type": "borderWidth"
           },
           "color": {
-            "value": "{utrecht.feedback.negative.color}",
+            "value": "{denhaag.color.red.3}",
             "type": "color"
           }
         },
@@ -1492,7 +1496,7 @@
         "section": {
           "border-block-end-width": {
             "type": "borderWidth",
-            "value": "1px"
+            "value": "0px"
           },
           "border-width": {
             "type": "borderWidth",
@@ -1505,7 +1509,7 @@
         },
         "body": {
           "border-color": {
-            "value": "transparent",
+            "value": "{denhaag.color.gray.3}",
             "type": "color"
           },
           "border-width": {
@@ -1634,7 +1638,7 @@
           },
           "border-width": {
             "type": "borderWidth",
-            "value": "0"
+            "value": "{denhaag.border-width.sm}"
           },
           "font-family": {
             "value": "{utrecht.document.font-family}",
@@ -1661,12 +1665,12 @@
             "type": "lineHeights"
           },
           "font-size": {
-            "value": "{denhaag.typography.font-size.xl}",
+            "value": "{denhaag.typography.font-size.lg}",
             "type": "fontSizes"
           }
         },
         "column-gap": {
-          "value": "{denhaag.space.column.xs}",
+          "value": "{denhaag.space.block.xs}",
           "type": "spacing"
         },
         "border-width": {
@@ -1682,11 +1686,11 @@
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "{denhaag.space.inline.sm}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.sm}",
+          "value": "{denhaag.space.block.sm}",
           "type": "spacing"
         },
         "informative": {
@@ -1699,7 +1703,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{utrecht.feedback.informative.color}",
             "type": "color"
           }
         },
@@ -1711,7 +1715,7 @@
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.sm}",
+            "value": "{denhaag.space.block.xs}",
             "type": "spacing"
           },
           "padding-block-start": {
@@ -1723,7 +1727,7 @@
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "{denhaag.space.inline.2xs}",
+            "value": "{denhaag.space.inline.xs}",
             "type": "spacing"
           },
           "positive": {
@@ -1759,7 +1763,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{utrecht.feedback.negative.color}",
             "type": "color"
           }
         },
@@ -1773,7 +1777,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{utrecht.feedback.positive.color}",
             "type": "color"
           }
         },
@@ -1787,13 +1791,13 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{utrecht.feedback.warning.color}",
             "type": "color"
           }
         },
         "message": {
           "row-gap": {
-            "value": "{denhaag.space.column.xs}",
+            "value": "{denhaag.space.inline.2xs}",
             "type": "spacing"
           },
           "padding-block-end": {
@@ -1801,7 +1805,11 @@
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.xs}",
+            "value": "{denhaag.space.block.sm}",
+            "type": "spacing"
+          },
+          "padding-inline-end": {
+            "value": "0px",
             "type": "spacing"
           }
         }
@@ -1825,7 +1833,7 @@
             "type": "fontWeights"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.sm}",
+            "value": "{denhaag.space.block.md}",
             "type": "spacing"
           },
           "color": {
@@ -1843,32 +1851,32 @@
             "type": "lineHeights"
           },
           "font-weight": {
-            "value": "{utrecht.document.font-weight}",
+            "value": "{utrecht.heading.font-weight}",
             "type": "fontWeights"
           },
           "font-size": {
-            "value": "{denhaag.typography.font-size.xl}",
+            "value": "{denhaag.typography.font-size.lg}",
             "type": "fontSizes"
           },
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{denhaag.color.green.4}",
             "type": "color"
           }
         },
         "padding-block-end": {
-          "value": "{denhaag.space.block.sm}",
+          "value": "{denhaag.space.block.md}",
           "type": "spacing"
         },
         "padding-block-start": {
-          "value": "{denhaag.space.block.sm}",
+          "value": "{denhaag.space.block.md}",
           "type": "spacing"
         },
         "padding-inline-end": {
-          "value": "0px",
+          "value": "{denhaag.space.inline.md}",
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "0px",
+          "value": "{denhaag.space.inline.md}",
           "type": "spacing"
         },
         "background-color": {
@@ -1914,15 +1922,15 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{denhaag.color.blue.3}"
           },
           "active": {
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.active.color}"
+              "value": "{denhaag.color.blue.5}"
             },
             "text-decoration": {
-              "value": "none",
+              "value": "underline",
               "type": "textDecoration"
             }
           },
@@ -1936,17 +1944,17 @@
               "value": "{utrecht.focus.color}"
             },
             "text-decoration": {
-              "value": "none",
+              "value": "underline",
               "type": "textDecoration"
             }
           },
           "hover": {
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "{denhaag.color.blue.4}"
             },
             "text-decoration": {
-              "value": "none",
+              "value": "underline",
               "type": "textDecoration"
             }
           },
@@ -2002,7 +2010,7 @@
           },
           "background-color": {
             "type": "color",
-            "value": "{denhaag.color.yellow.500}"
+            "value": "{utrecht.interaction.color}"
           },
           "border-color": {
             "value": "transparent",
@@ -2015,7 +2023,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.gray.50}"
+              "value": "{denhaag.color.gray.2}"
             },
             "border-color": {
               "value": "transparent",
@@ -2023,7 +2031,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{denhaag.color.gray.500}"
+              "value": "{denhaag.color.gray.4}"
             }
           },
           "focus": {
@@ -2063,7 +2071,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.gray.50}"
+              "value": "{denhaag.color.white}"
             },
             "border-color": {
               "type": "color",
@@ -2089,7 +2097,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.gray.50}"
+              "value": "{denhaag.color.gray.2}"
             },
             "border-color": {
               "type": "color",
@@ -2097,7 +2105,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{denhaag.color.gray.500}"
+              "value": "{denhaag.color.gray.4}"
             }
           },
           "focus": {
@@ -2121,7 +2129,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.gray.100}"
+              "value": "{denhaag.color.white}"
             },
             "border-color": {
               "type": "color",
@@ -2135,19 +2143,19 @@
         },
         "background-color": {
           "type": "color",
-          "value": "transparent"
+          "value": "{denhaag.color.white}"
         },
         "border-color": {
           "type": "color",
-          "value": "{denhaag.color.gray.900}"
+          "value": "{denhaag.color.gray.2}"
         },
         "color": {
           "type": "color",
-          "value": "{denhaag.color.gray.900}"
+          "value": "{denhaag.color.gray.4}"
         },
         "border-radius": {
           "type": "borderRadius",
-          "value": "{denhaag.border-radius.md}"
+          "value": "{denhaag.border-radius.sm}"
         },
         "border-width": {
           "type": "borderWidth",
@@ -2183,7 +2191,7 @@
           "hover": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.dark.alpha.50}"
+              "value": "transparant"
             },
             "border-color": {
               "type": "color",
@@ -2209,7 +2217,7 @@
           "disabled": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.gray.50}"
+              "value": "{denhaag.color.gray.2}"
             },
             "border-color": {
               "type": "color",
@@ -2217,7 +2225,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{denhaag.color.gray.500}"
+              "value": "{denhaag.color.gray.4}"
             }
           },
           "focus": {
@@ -2237,7 +2245,7 @@
           "active": {
             "background-color": {
               "type": "color",
-              "value": "{denhaag.color.dark.alpha.100}"
+              "value": "transparant"
             },
             "border-color": {
               "type": "color",
@@ -2271,7 +2279,7 @@
         },
         "disabled": {
           "background-color": {
-            "value": "{denhaag.color.gray.50}",
+            "value": "{denhaag.color.gray.2}",
             "type": "color"
           },
           "border-color": {
@@ -2279,7 +2287,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{denhaag.color.gray.500}",
+            "value": "{denhaag.color.gray.4}",
             "type": "color"
           }
         },
@@ -2299,7 +2307,7 @@
         },
         "hover": {
           "background-color": {
-            "value": "{denhaag.color.gray.50}",
+            "value": "{denhaag.color.white}",
             "type": "color"
           },
           "border-color": {
@@ -2313,7 +2321,7 @@
         },
         "active": {
           "background-color": {
-            "value": "{denhaag.color.gray.100}",
+            "value": "{denhaag.color.white}",
             "type": "color"
           },
           "border-color": {
@@ -2337,7 +2345,7 @@
       "checkbox": {
         "border-radius": {
           "type": "borderRadius",
-          "value": "0px"
+          "value": "{denhaag.border-radius.sm}"
         },
         "size": {
           "type": "sizing",
@@ -2422,7 +2430,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{denhaag.color.white}",
+              "value": "{utrecht.form-control.disabled.color}",
               "type": "color"
             }
           },
@@ -2508,7 +2516,7 @@
               "type": "color"
             },
             "color": {
-              "value": "{denhaag.color.white}",
+              "value": "{utrecht.form-control.disabled.color}",
               "type": "color"
             }
           },
@@ -2610,7 +2618,7 @@
           "type": "spacing"
         },
         "row-gap": {
-          "value": "{denhaag.space.row.md}",
+          "value": "{denhaag.space.row.sm}",
           "type": "spacing"
         }
       },
@@ -2649,7 +2657,7 @@
         },
         "background-color": {
           "type": "color",
-          "value": "{denhaag.color.violet.100}"
+          "value": "{utrecht.alert.informative.background-color}"
         },
         "border-color": {
           "type": "color",
@@ -2657,7 +2665,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.document.color}"
+          "value": "{utrecht.feedback.informative.color}"
         },
         "padding-inline": {
           "value": "{denhaag.space.inline.2xs}",
@@ -2697,7 +2705,7 @@
             }
           },
           "padding-block-end": {
-            "value": "{denhaag.space.block.sm}",
+            "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
           },
           "padding-block-start": {
@@ -2763,7 +2771,7 @@
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.document.color}",
+            "value": "{utrecht.document.subtle.color}",
             "type": "color"
           }
         },
@@ -2799,7 +2807,7 @@
             "type": "spacing"
           },
           "padding-block-start": {
-            "value": "{denhaag.space.block.sm}",
+            "value": "{denhaag.space.block.2xs}",
             "type": "spacing"
           },
           "padding-inline-end": {
@@ -2869,7 +2877,7 @@
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.feedback.negative.color}"
+          "value": "{utrecht.form-control.invalid.color}"
         },
         "font-family": {
           "value": "{utrecht.document.font-family}",
@@ -3083,16 +3091,16 @@
         },
         "color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{denhaag.color.blue.3}"
         },
         "text-decoration-color": {
           "type": "color",
-          "value": "{utrecht.interaction.color}"
+          "value": "{denhaag.color.blue.3}"
         },
         "active": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.active.color}"
+            "value": "{denhaag.color.blue.5}"
           },
           "text-decoration": {
             "value": "none",
@@ -3120,7 +3128,7 @@
         "hover": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.hover.color}"
+            "value": "{denhaag.color.blue.4}"
           },
           "text-decoration": {
             "value": "none",
@@ -3134,7 +3142,7 @@
         "visited": {
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{denhaag.color.blue.3}"
           }
         },
         "text-decoration": {
@@ -3507,7 +3515,7 @@
       "paragraph": {
         "color": {
           "type": "color",
-          "value": "{utrecht.document.color}"
+          "value": "{utrecht.document.subtle.color}"
         },
         "font-family": {
           "value": "{utrecht.document.font-family}",
@@ -4421,7 +4429,7 @@
       "textbox": {
         "border-radius": {
           "type": "borderRadius",
-          "value": "0px"
+          "value": "{denhaag.border-radius.sm}"
         },
         "font-family": {
           "value": "{utrecht.document.font-family}",
