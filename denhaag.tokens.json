@@ -1547,7 +1547,7 @@
             "type": "fontSizes"
           },
           "line-height": {
-            "value": "{utrecht.document.line-height}",
+            "value": "{denhaag.typography.line-height.sm}",
             "type": "lineHeights"
           },
           "icon": {
@@ -1681,13 +1681,13 @@
           "value": "{denhaag.space.block.xs}",
           "type": "spacing"
         },
-        "border-width": {
-          "value": "{utrecht.form-control.invalid.border-width}",
-          "type": "borderWidth"
-        },
         "padding-block-end": {
           "value": "{denhaag.space.block.sm}",
           "type": "spacing"
+        },
+        "border-width": {
+          "value": "{utrecht.form-control.invalid.border-width}",
+          "type": "borderWidth"
         },
         "padding-block-start": {
           "value": "{denhaag.space.block.sm}",
@@ -1884,11 +1884,19 @@
           "type": "spacing"
         },
         "padding-inline-start": {
-          "value": "{denhaag.space.inline.md}",
+          "value": "{denhaag.space.inline.lg}",
           "type": "spacing"
         },
         "background-color": {
           "value": "transparent",
+          "type": "color"
+        },
+        "border-inline-start-width": {
+          "type": "borderWidth",
+          "value": "{denhaag.border-width.lg}"
+        },
+        "border-inline-start-color": {
+          "value": "{denhaag.color.green.1}",
           "type": "color"
         }
       },
