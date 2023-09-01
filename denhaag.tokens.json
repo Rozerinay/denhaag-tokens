@@ -1588,6 +1588,10 @@
             "color": {
               "type": "color",
               "value": "{utrecht.interaction.hover.color}"
+            },
+            "font-weight": {
+              "value": "{utrecht.document.font-weight}",
+              "type": "fontWeights"
             }
           },
           "expanded": {
@@ -1602,6 +1606,28 @@
             "color": {
               "type": "color",
               "value": "{utrecht.interaction.color}"
+            },
+            "font-weight": {
+              "value": "{utrecht.document.strong.font-weight}",
+              "type": "fontWeights"
+            },
+            "active": {
+              "font-weight": {
+                "value": "{utrecht.document.strong.font-weight}",
+                "type": "fontWeights"
+              }
+            },
+            "hover": {
+              "font-weight": {
+                "value": "{utrecht.document.strong.font-weight}",
+                "type": "fontWeights"
+              }
+            },
+            "focus": {
+              "font-weight": {
+                "value": "{utrecht.document.strong.font-weight}",
+                "type": "fontWeights"
+              }
             }
           },
           "background-color": {
@@ -1614,7 +1640,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{utrecht.document.color}"
           },
           "focus": {
             "background-color": {
@@ -1628,6 +1654,10 @@
             "color": {
               "type": "color",
               "value": "{utrecht.focus.color}"
+            },
+            "font-weight": {
+              "value": "{utrecht.document.font-weight}",
+              "type": "fontWeights"
             }
           },
           "active": {
@@ -1642,6 +1672,10 @@
             "color": {
               "type": "color",
               "value": "{utrecht.interaction.active.color}"
+            },
+            "font-weight": {
+              "value": "{utrecht.document.font-weight}",
+              "type": "fontWeights"
             }
           },
           "border-width": {
@@ -1653,7 +1687,7 @@
             "type": "fontFamilies"
           },
           "font-weight": {
-            "value": "{utrecht.document.strong.font-weight}",
+            "value": "{utrecht.document.font-weight}",
             "type": "fontWeights"
           }
         }
@@ -3270,7 +3304,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{denhaag.color.blue.3}"
           },
           "active": {
             "background-color": {
@@ -3283,7 +3317,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.active.color}"
+              "value": "{denhaag.color.blue.5}"
             },
             "text-decoration": {
               "value": "underline",
@@ -3315,7 +3349,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "{denhaag.color.blue.4}"
             },
             "text-decoration": {
               "value": "underline",
@@ -3372,7 +3406,7 @@
         "page-link": {
           "border-width": {
             "type": "borderWidth",
-            "value": "{denhaag.border-width.sm}"
+            "value": "{denhaag.border-width.md}"
           },
           "font-weight": {
             "value": "{utrecht.document.font-weight}",
@@ -3389,7 +3423,7 @@
             },
             "background-color": {
               "type": "color",
-              "value": "transparent"
+              "value": "{denhaag.color.blue.3}"
             },
             "border-color": {
               "type": "color",
@@ -3397,7 +3431,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.document.color}"
+              "value": "{utrecht.document.inverse.color}"
             }
           },
           "border-radius": {
@@ -3449,7 +3483,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.hover.color}"
+              "value": "{denhaag.color.blue.3}"
             }
           },
           "text-decoration": {
@@ -3471,7 +3505,7 @@
             },
             "color": {
               "type": "color",
-              "value": "{utrecht.interaction.active.color}"
+              "value": "{denhaag.color.blue.5}"
             }
           },
           "background-color": {
@@ -3484,7 +3518,7 @@
           },
           "color": {
             "type": "color",
-            "value": "{utrecht.interaction.color}"
+            "value": "{denhaag.color.blue.3}"
           },
           "min-block-size": {
             "type": "sizing",
