@@ -3,6 +3,10 @@
     "denhaag": {
       "typography": {
         "font-size": {
+          "xs": {
+            "value": "12px",
+            "type": "fontSizes"
+          },
           "sm": {
             "value": "14px",
             "type": "fontSizes"
@@ -29,10 +33,6 @@
           },
           "4xl": {
             "value": "48px",
-            "type": "fontSizes"
-          },
-          "xs": {
-            "value": "12px",
             "type": "fontSizes"
           }
         },
@@ -2769,6 +2769,10 @@
           "padding-inline-start": {
             "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
+          },
+          "color": {
+            "value": "{utrecht.document.subtle.color}",
+            "type": "color"
           }
         },
         "item-key": {
@@ -2809,20 +2813,20 @@
           "padding-inline-start": {
             "value": "{denhaag.space.inline.sm}",
             "type": "spacing"
-          }
-        },
-        "item": {
-          "border-width": {
-            "type": "borderWidth",
-            "value": "{denhaag.border-width.sm}"
           },
           "border-color": {
             "value": "{utrecht.line.border-color}",
             "type": "color"
           },
           "color": {
-            "value": "{utrecht.document.subtle.color}",
+            "value": "{utrecht.document.color}",
             "type": "color"
+          }
+        },
+        "item": {
+          "border-width": {
+            "type": "borderWidth",
+            "value": "{denhaag.border-width.sm}"
           }
         },
         "font-size": {
