@@ -1424,78 +1424,6 @@
       }
     }
   },
-  "components/avatar": {
-    "nl": {
-      "avatar": {
-        "background-color": {
-          "value": "{utrecht.interaction.color}",
-          "type": "color"
-        },
-        "border-radius": {
-          "value": "{denhaag.border-radius.round}",
-          "type": "borderRadius"
-        },
-        "size": {
-          "value": "{utrecht.pointer-target.min-size}",
-          "type": "sizing"
-        },
-        "icon": {
-          "icon-size": {
-            "value": "{utrecht.icon.functional.size}",
-            "type": "sizing"
-          }
-        },
-        "border-color": {
-          "value": "transparent",
-          "type": "color"
-        },
-        "color": {
-          "value": "{denhaag.color.white}",
-          "type": "color"
-        },
-        "text": {
-          "font-family": {
-            "value": "{utrecht.document.font-family}",
-            "type": "fontFamilies"
-          },
-          "font-weight": {
-            "value": "{utrecht.document.strong.font-weight}",
-            "type": "fontWeights"
-          },
-          "line-height": {
-            "value": "{utrecht.document.line-height}",
-            "type": "lineHeights"
-          },
-          "text-transform": {
-            "value": "uppercase",
-            "type": "textCase"
-          },
-          "font-size": {
-            "value": "{utrecht.document.font-size}",
-            "type": "fontSizes"
-          }
-        },
-        "border-width": {
-          "value": "{denhaag.border-width.sm}",
-          "type": "borderWidth"
-        },
-        "hover": {
-          "background-color": {
-            "value": "{utrecht.interaction.hover.color}",
-            "type": "color"
-          },
-          "border-color": {
-            "value": "transparent",
-            "type": "color"
-          },
-          "color": {
-            "value": "{denhaag.color.white}",
-            "type": "color"
-          }
-        }
-      }
-    }
-  },
   "components/accordion": {
     "utrecht": {
       "accordion": {
@@ -1859,6 +1787,78 @@
           "padding-inline-end": {
             "value": "0px",
             "type": "spacing"
+          }
+        }
+      }
+    }
+  },
+  "components/avatar": {
+    "nl": {
+      "avatar": {
+        "background-color": {
+          "value": "{utrecht.interaction.color}",
+          "type": "color"
+        },
+        "border-radius": {
+          "value": "{denhaag.border-radius.round}",
+          "type": "borderRadius"
+        },
+        "size": {
+          "value": "{utrecht.pointer-target.min-size}",
+          "type": "sizing"
+        },
+        "icon": {
+          "icon-size": {
+            "value": "{utrecht.icon.functional.size}",
+            "type": "sizing"
+          }
+        },
+        "border-color": {
+          "value": "transparent",
+          "type": "color"
+        },
+        "color": {
+          "value": "{denhaag.color.white}",
+          "type": "color"
+        },
+        "text": {
+          "font-family": {
+            "value": "{utrecht.document.font-family}",
+            "type": "fontFamilies"
+          },
+          "font-weight": {
+            "value": "{utrecht.document.strong.font-weight}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "{utrecht.document.line-height}",
+            "type": "lineHeights"
+          },
+          "text-transform": {
+            "value": "uppercase",
+            "type": "textCase"
+          },
+          "font-size": {
+            "value": "{utrecht.document.font-size}",
+            "type": "fontSizes"
+          }
+        },
+        "border-width": {
+          "value": "{denhaag.border-width.sm}",
+          "type": "borderWidth"
+        },
+        "hover": {
+          "background-color": {
+            "value": "{utrecht.interaction.hover.color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "transparent",
+            "type": "color"
+          },
+          "color": {
+            "value": "{denhaag.color.white}",
+            "type": "color"
           }
         }
       }
@@ -4955,9 +4955,9 @@
     "tokenSetOrder": [
       "brand",
       "common",
-      "components/avatar",
       "components/accordion",
       "components/alert",
+      "components/avatar",
       "components/blockquote",
       "components/breadcrumb",
       "components/button",
