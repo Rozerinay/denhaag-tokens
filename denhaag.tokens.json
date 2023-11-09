@@ -1353,7 +1353,7 @@
       "icon": {
         "functional": {
           "size": {
-            "value": "{denhaag.size.xs}",
+            "value": "{denhaag.size.icon.md}",
             "type": "sizing"
           }
         },
@@ -1654,7 +1654,7 @@
           "type": "spacing"
         },
         "border-width": {
-          "value": "{utrecht.form-control.invalid.border-width}",
+          "value": "{denhaag.border-width.md}",
           "type": "borderWidth"
         },
         "padding-block-start": {
@@ -1773,7 +1773,7 @@
         },
         "message": {
           "row-gap": {
-            "value": "{denhaag.space.inline.2xs}",
+            "value": "{denhaag.space.inline.md}",
             "type": "spacing"
           },
           "padding-block-end": {
@@ -1786,6 +1786,12 @@
           },
           "padding-inline-end": {
             "value": "0px",
+            "type": "spacing"
+          }
+        },
+        "content": {
+          "row-gap": {
+            "value": "{denhaag.space.inline.2xs}",
             "type": "spacing"
           }
         }
@@ -2408,6 +2414,40 @@
         "min-inline-size": {
           "type": "sizing",
           "value": "{utrecht.pointer-target.min-size}"
+        }
+      }
+    }
+  },
+  "components/button-group": {
+    "utrecht": {
+      "button-group": {
+        "background-color": {
+          "value": "transparent",
+          "type": "color"
+        },
+        "column-gap": {
+          "value": "{denhaag.space.column.md}",
+          "type": "spacing"
+        },
+        "margin-block-end": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "margin-block-start": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "padding-block-end": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "row-gap": {
+          "value": "{denhaag.space.row.md}",
+          "type": "spacing"
         }
       }
     }
@@ -4961,6 +5001,7 @@
       "components/blockquote",
       "components/breadcrumb",
       "components/button",
+      "components/button-group",
       "components/checkbox",
       "components/checkbox-group",
       "components/counter-badge",
